@@ -1,4 +1,4 @@
-# Northwind-Sales-Dashboard
+# Northwind Sales Insights: Customer Focus and Profit Margins
 
 ## Critical Insights 
 ### Financial Performance
