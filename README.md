@@ -30,3 +30,8 @@ With United Package taking a high proportion of freight costs, there may be oppo
 There is a strong corellation between the fact Horst Kloss and Roland Mendel buying the most quantities of products as they receive substaintially more discounts compared to to others. This may guarantee constant revenue amongst their biggest customers due to the level of service and peddle stool they are being put on to feel some sort of importance. 
 
 This however may make other customers feel like they are not receiving the same sort of service and they abandon the product to go to another brand that thye feel appreciates their pruchasing. Therfore, there is potential to standardise these successful techniques across the team that they are using on the top customers, to improve the average quantities sold, so more employees can replicate the sucess of top perfomers.
+
+## Recommendations
+
+## Dashboard
+![Northwind Dataset](https://github.com/Mojm4321/Northwind-Sales-Dashboard/blob/main/Screenshot%202024-07-13%20213524.png)
