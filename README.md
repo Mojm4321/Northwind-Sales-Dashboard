@@ -1,4 +1,4 @@
-# Northwind Sales Insights: Customer Focus and Profit Margins
+# Northwind Sales Insights: Customer Focus and Profit Margins By Jolly Madamedon
 
 ## Critical Insights 
 ### Financial Performance
